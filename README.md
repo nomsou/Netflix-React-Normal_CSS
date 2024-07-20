@@ -1,5 +1,5 @@
 # Netflix Application made with React
-This  is a netflix-clone application made with ReactJS. This task was given to me by my IT supervisor.
+This  is a netflix-clone application made with ReactJS. Bootstrapped with Vite and ReactJS
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
